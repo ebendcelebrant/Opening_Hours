@@ -1,6 +1,8 @@
 # Opening_Hours
 A Web API built with C# that accepts JSON-formatted opening hours of a restaurant as an input, either as a string or JSON object, and outputs hours in more human readable format
 
+![](ApiDemo.gif)
+
 ## Content
 * [Features](https://github.com/ebendcelebrant/Opening_Hours/tree/master#features)
 * [How To Run](https://github.com/ebendcelebrant/Opening_Hours/tree/master#how-to-run)
