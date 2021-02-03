@@ -31,9 +31,8 @@ Visual Studio was used in this project and the solution file is in VS format. <b
 </ol>
 
 ## Thoughts On The Data Format
-The second part of the question is on my thoughts on the data format. Firstly, I believe this exercise, in it's entirety, provided a good opportunity to examine 
-good software development practices, problem solving and critical thinking. However, a little more information and background may be needed to properly evaluate my thoughts
-on the format. What I can deduce from the current information is a format in which the data could have been formatted to ease different stakeholders of the project.
+The second part of the question has to do with my thoughts on the data format. Firstly, I believe this exercise, in it's entirety, provided a good opportunity to examine 
+good software development practices, problem solving and critical thinking. However, a little more information and background may be needed to properly evaluate my thoughts on the format. Based on the information available, I believe there is a format in which the data could have been formatted that will ease the different stakeholders of the project. I call this format the <i>Programmer-Centric Approach</i>
 
 ### The Programmer-Centric Approach
 This is basically the data formatting style that will benefit the programmer and the non-IT user the most. It is already almost readable and doesn't require much coding.
